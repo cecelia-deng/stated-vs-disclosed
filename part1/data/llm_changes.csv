@@ -1,0 +1,267 @@
+ticker,from_year,to_year,gap_years,text_similarity,changed_from_prior,llm_changed,llm_summary,artifact_flag
+ABBV,2016,2017,1,0.1855,True,True,"The page content changed completely from a legal disclaimer about leaving the website to a comprehensive corporate overview detailing employee volunteerism, innovation, sustainability, and awards.",False
+ABBV,2017,2018,1,0.5197,True,True,"The page was significantly streamlined by removing specific corporate social responsibility metrics, volunteer hours, and innovation approach statements, while adding standard website cookie notices and external link disclaimer pop-up text.",False
+ABBV,2018,2019,1,0.5948,True,True,"The executive's title changed, award recognition metrics and years were updated (reflecting progress in DJSI, Civic 50, and DiversityInc), and new legal disclaimer text regarding the proposed Allergan acquisition was added.",False
+ABBV,2019,2020,1,0.9978,False,True,"The DJSI World Index recognition streak was updated from the sixth to the seventh year, and the cookie consent banner text was removed.",False
+ABBV,2020,2021,1,0.8733,True,True,"Kyle Holen's title was updated, the recognition details and awards section were refreshed to include newer rankings and carousel navigation elements, and the Allergan acquisition disclaimer text was slightly expanded.",False
+ABBV,2021,2022,1,0.7924,True,True,The current year snapshot removed the lengthy legal disclaimer section regarding the recommended offer for Allergan plc that was present in the prior year snapshot.,False
+ABBV,2022,2023,1,0.5505,True,True,"The About page was completely restructured and rewritten, shifting from specific employee quotes and individual award callouts (like the DJSI and DiversityInc rankings) to broader thematic sections covering Science & Innovation, People & Culture, Investor Resources, and Environmental, Social and Governance (ESG).",False
+ABBV,2023,2024,1,0.9883,False,True,The tagline under the 'Science & Innovation' section was updated to include 'Investing in Science. Innovating for Patients.',False
+ABT,2016,2017,1,0.8243,True,True,"The page content shifted from discussing B vitamins, Tanzania healthcare partnerships, and Jose Gutierrez to featuring new stories about virus hunters, the Boston Marathon medical team, gestational diabetes tips, and Richard, a quality engineer.",False
+ABT,2017,2018,1,0.7282,True,True,"The current year's snapshot has been significantly expanded to include a top navigation menu, multiple patient and product success stories, career and investor resources, and a more comprehensive overview of the company's business and initiatives.",False
+ABT,2018,2019,1,0.7996,True,True,"The page updated its featured human-interest stories and impact initiatives, replacing examples about Baby Sadie, Bob Quick, and student loan savings catch-22 with new stories focusing on STEM Sisters, nutrition, FreeStyle Libre, heart failure, and preemie baby heart devices.",False
+ABT,2019,2020,1,0.808,True,True,"The page content shifted from general medical and STEM highlights in the prior year to a heavy focus on COVID-19 testing, coronavirus resources, and updated diabetes technology products in the current year.",False
+ABT,2020,2021,1,0.8088,True,True,"The company's focus shifted from general COVID-19 testing, telehealth, and diabetes technology highlights in the prior year to new messaging around STEM opportunities for female interns, travel testing solutions (BinaxNOW and NAVICA), and a long-term goal of reaching one in three people annually by 2030 through accessible products.",False
+ABT,2021,2022,1,0.9322,True,True,The company's focus shifted from featuring female STEM interns and travel-related COVID testing to emphasizing inclusive research initiatives and behind-the-scenes employee stories.,False
+ABT,2022,2023,1,0.988,False,True,"The order of key messaging blocks changed and a new banner about partnering to slow the next pandemic was added, replacing the initial focus on inclusive research.",False
+AMZN,2016,2017,1,0.7475,True,True,"The About page shifted its focus from general corporate reputation, fulfillment center statistics, and early artisan stories to new sustainability initiatives, specific community and employee engagement events, job creation announcements, and expanded educational partnerships.",False
+AMZN,2017,2018,1,0.3984,True,True,"The About page shifted from a simple list of 'Did you know?' trivia bullet points to a deeply structured, narrative-driven layout featuring sections on company culture, innovation, community impact, leadership principles, and specific business initiatives.",False
+AMZN,2018,2019,1,0.7096,True,,,False
+AMZN,2019,2020,1,0.6061,True,True,"The About page shifted its core focus from highlighting specific leadership letters, robotics, and broad community programs to emphasizing its foundational guiding principles, employee hiring processes, COVID-19 response efforts, and voice technology innovations.",False
+AMZN,2020,2024,4,0.0825,True,True,"The About page was completely overhauled from a corporate principles and COVID-19 relief focus to a dynamic section featuring trending topics, artificial intelligence, Prime shopping benefits, and workplace culture.",False
+AVGO,2016,2017,1,1.0,False,False,There are no changes between the prior year and current year snapshots of the About page.,False
+AVGO,2017,2018,1,0.9675,False,False,"The company name was updated from Broadcom Limited to Broadcom Inc., but the core content and messaging remained otherwise identical.",False
+AVGO,2018,2019,1,0.4965,True,True,"The company description shifted from a focus on diversified semiconductor products across four primary end markets to a broader definition as an infrastructure technology leader emphasizing its rich technical heritage, historical acquisitions, and combined semiconductor and infrastructure software solutions.",False
+AXP,2016,2017,1,1.0,False,False,"Both snapshots contain identical text capturing JavaScript warning messages and site navigation links, indicating no substantive changes between the two years.",False
+AXP,2017,2018,1,1.0,False,False,"Both snapshots contain identical text capturing a JavaScript-disabled login page for American Express, resulting in no substantive changes between the two years.",False
+AXP,2018,2019,1,0.1698,True,True,The page content completely shifted from a generic login and site directory prompt to promotional advertisements for credit card offers and referral bonuses.,False
+AXP,2019,2020,1,0.0824,True,True,"The company shifted its promotional focus from credit card offers and travel rewards in the prior year to small business support, Calm wellness perks, and COVID-19 resources in the current year.",False
+AXP,2020,2021,1,0.1228,True,True,"The company shifted its promotional focus from pandemic-related support, wellness perks, and small business campaigns to travel rewards, business expense management, and gift card offers.",False
+AXP,2021,2022,1,0.2793,True,True,"The company's offerings and promotions shifted from travel rewards, business cashflow visibility, and specific gift card discounts to new digital checking accounts, partner cashback offers, and general business products and services.",False
+BAC,2016,2017,1,0.9685,False,True,The promotional text regarding the BankAmericard Cash Rewards credit card was removed in the current year snapshot.,False
+BAC,2017,2018,1,0.4757,True,True,"The page content shifted completely from detailing online behavioral advertising, opt-out choices, and charitable promotions to providing a general company welcome, SEO keywords, and notices regarding mobile app downloads and app store privacy policies.",False
+BAC,2018,2019,1,0.5787,True,True,"The page shifted its focus from a general corporate welcome statement and keyword stuffing to detailed promotional content about the mobile banking app's features, security, device compatibility, and Better Money Habits educational resources.",False
+BAC,2019,2020,1,0.6915,True,True,"The page shifted its focus from general mobile app features and Better Money Habits to specific interactive download forms, app store redirects, and security verification prompts related to Windows Hello and device notifications.",False
+BAC,2020,2021,1,0.9929,False,True,The company added a new section introducing the Bank of America Life Plan® for setting and tracking financial goals.,False
+BAC,2021,2022,1,0.9361,True,True,"Terminology related to authentication was updated across the page, changing references from 'Online ID' and 'Passcode' / 'sign in' to 'User ID' and 'Password' / 'Log In'.",False
+BAC,2022,2023,1,0.9928,False,True,The mention of 'Bank of America Life Plan®' and its description of setting financial goals was removed in the current year snapshot.,False
+BAC,2023,2024,1,1.0,False,False,"The text content between the two yearly snapshots remains identical, with only minor formatting adjustments such as the removal of spaces around asterisks in form labels.",False
+BLK,2018,2019,1,0.2136,True,,,False
+BLK,2019,2020,1,0.3501,True,True,"The About page was updated to reflect BlackRock's updated mission statement regarding financial well-being, increased AUM figures as of December 2019, commentary on the 2020 market downturn, and a stronger strategic focus on sustainable investing.",False
+BLK,2020,2021,1,0.2069,True,True,"The About page shifted its focus from highlighting sustainable investing resilience and corporate purpose to emphasizing global reach, investment insights, and specific product offerings like iShares ETFs.",False
+BMY,2016,2017,1,0.0843,True,True,"The company's focus shifted from a general annual report and patient assistance message to highlighting specific oncology research initiatives, clinical trials, medical information for providers, and celebrity-backed awareness campaigns.",False
+BMY,2017,2018,1,0.1859,True,True,"The company's focus shifted from immunotherapy and cancer research initiatives to supporting children with cancer, autoimmune diseases like rheumatoid arthritis, and foundation-sponsored global health programs.",False
+BMY,2018,2019,1,0.4092,True,True,"The page shifted its focus from specific philanthropic and research spotlights (such as pediatric cancer support in Africa and rheumatoid arthritis research) to corporate development announcements, including the planned Celgene acquisition, new R&D site updates, and expanded resources for patients and healthcare providers.",False
+BMY,2019,2020,1,0.3425,True,True,"The About page shifted its focus from the previous year's Celgene acquisition and Cambridge R&D site to current events including the CEO's statement on social justice, COVID-19 response measures, corporate rebranding, new FDA approvals, and patient advocacy initiatives.",False
+BMY,2020,2021,1,0.3589,True,True,"The company's About page shifted its focus from specific executive statements on social events, COVID-19 responses, and recent product approvals to broader corporate identity, careers, investor relations, and dedicated resources for researchers, healthcare providers, and patients.",False
+BMY,2021,2022,1,0.9768,False,True,"The current year page added a news update dated May 17, 2022, highlighting the evolution of lung cancer research.",False
+BMY,2022,2023,1,0.8949,True,True,"The current year's page introduces a new featured section on global inclusion and diversity, while slightly revising the wording for the survivorship and resource sections.",False
+BMY,2023,2024,1,0.9401,True,True,The current year's page removed specific mentions of the 2021 Global Inclusion & Diversity report and the Emmy award winner Sterling K. Brown associated with the Survivorship Today series.,False
+C,2021,2022,1,0.4405,True,True,"The About page shifted focus from 2021 financial results, awards, and specific regional updates to leadership updates from CEO Jane Fraser, new sustainability and social finance bond initiatives, and macroeconomic supply chain analyses.",False
+C,2022,2024,2,0.2668,True,True,"The page shifted its focus from general strategic updates, net zero commitments, and pandemic relief to specific 2022 ESG activities, including the expansion of the Citi Impact Fund, updated diversity representation goals, and the Community Finance Innovation Fund.",False
+COP,2017,2019,2,0.6925,True,True,"While the core company description remained largely consistent, the employee headcount decreased from over 11,600 to 10,800, and all the specific operational updates, community service highlights, and social media post examples were entirely replaced with new current-year initiatives and stories.",False
+COP,2019,2020,1,0.791,True,True,"The page added a formal 'About Us' opening defining the company's industry standing, structured the content with clear section headers ('Learn More', 'Our History', 'What We Do'), and removed the social media promotional posts and news updates that were present in the prior year's snapshot.",False
+COP,2020,2021,1,1.0,False,False,"The page only changed minor operational statistics, decreasing the number of countries of operation from 17 to 15 and the workforce count from 10,400 to 10,300.",False
+COP,2021,2022,1,0.9465,True,True,"The company reduced its reported operating countries from 15 to 13 and employee count from 10,300 to 9,400, and added a new 'Integrating Sustainability' section.",False
+COP,2022,2023,1,0.9983,False,True,"The employee headcount increased from 9,400 to 9,600, and the phrasing in the 'Who We Are' section was slightly revised.",False
+COP,2023,2024,1,1.0,False,False,"The only change between the two snapshots is the employee headcount, which increased from 9,600 to 10,000 across the 13 countries of operations.",False
+CRM,2017,2018,1,0.2984,True,True,"The company's About page shifted from listing a detailed catalogue of specific products and features to a high-level summary with website navigation links, cookie consent notices, and a call-to-action for a free trial.",False
+CRM,2018,2019,1,0.2907,True,True,"The About page shifted from a brief generic description and basic site directory to an extensive, product-specific feature list detailing various clouds, services, and platform capabilities.",False
+CRM,2019,2020,1,0.5125,True,True,"The company's About page underwent a major restructuring, shifting from a detailed product-by-product feature breakdown to a high-level corporate navigation and resource directory, prominently featuring new COVID-19 response resources and Work.com solutions.",False
+CRM,2020,2022,2,0.3405,True,True,"The page shifted from a comprehensive, menu-heavy corporate site map with extensive navigation links, product listings, and COVID-19 resources to a simplified promotional landing page focused on customer success stories, product highlights, events, and AppExchange offerings.",False
+CRM,2022,2024,2,0.3325,True,True,"The About page shifted its focus from customer success stories and virtual events to promoting the Salesforce Starter Suite, free trials, AI integration, and unified marketing, sales, and service tools.",False
+CVX,2016,2017,1,1.0,False,False,The content of the About page remains identical between the two yearly snapshots.,False
+CVX,2017,2018,1,1.0,False,False,There are no substantive changes between the two yearly snapshots of the About page.,False
+CVX,2018,2019,1,0.9907,False,True,The number of core values guiding business activities and decisions changed from seven to five in the Chevron Way section.,False
+CVX,2019,2020,1,0.1709,True,True,"The About page shifted its messaging from a corporate focus on operational excellence, leadership, and the Chevron Way to a human-centric narrative emphasizing affordable, reliable, and ever-cleaner energy for human progress.",False
+CVX,2020,2021,1,1.0,False,False,The text of the About page remained completely identical between the two yearly snapshots.,False
+CVX,2021,2022,1,0.8781,True,True,"The opening section about powering human progress was removed, and a newsletter subscription call-to-action was added near the bottom.",False
+CVX,2022,2023,1,0.9548,False,True,"The call-to-action text for the newsletter was slightly altered from ""news & updates"" to ""news and updates"", and the ""explore the latest"" section was removed.",False
+CVX,2023,2024,1,0.9951,False,False,The content remained identical except for the addition of the header 'who we are' at the beginning of the text.,False
+F,2016,2017,1,0.237,True,True,"The page content changed from general legal disclaimers, vehicle classifications, and feature notes to specific mobile messaging consent terms and A/Z/X Plan participant pricing instructions.",False
+F,2017,2018,1,0.9464,True,,,False
+F,2018,2019,1,0.8905,True,True,"The reviews and ratings section was restructured into a clearer Q&A format with expanded moderation guidelines, and general company branding and UI elements (such as dealer info, sharing tools, and browser support warnings) were added to the current year's page.",False
+F,2019,2020,1,0.8315,True,True,"The page content shifted from brand heritage messaging (""Born in Detroit, made in America"") and dealer lookup tools to pandemic-era financial assistance programs, COVID-19 relief terms, and 0% APR financing promotional details.",False
+F,2020,2021,1,0.8561,True,True,"Snapshot B added a 'Pick Up Where You Left Off' section and information about the Ford Blue Advantage partnership with Autotrader, while removing COVID-19 financial relief and 0% APR financing promotional offers that were present in Snapshot A.",False
+F,2021,2022,1,0.7909,True,True,"The page content shifted from displaying general news, vehicle features, and customer review guidelines to addressing supply-chain constraints, high demand impacts on vehicle availability, and updates to price savings on the Build & Price tool.",False
+F,2022,2023,1,0.9018,True,True,"The current year's snapshot adds new information regarding federal tax credits for electric and plug-in hybrid vehicles priced at $80,000 or less, along with related tax and legal disclaimers.",False
+F,2023,2024,1,0.8852,True,True,The text regarding federal tax credits for electric and plug-in hybrid vehicles was removed and replaced with a new promotional introduction about choosing vehicle power options.,False
+GOOGL,2016,2017,1,0.3614,True,True,"The page shifted from a concise corporate overview detailing the company mission, core philosophies, and links to investor relations and venture capital into a dynamic, content-driven portal highlighting current social initiatives, blog posts, stories, and interactive features.",False
+GOOGL,2017,2018,1,0.5098,True,True,"The company's About page shifted its focus from broad corporate values and social initiatives to specific user stories, digital wellbeing tools, education grants, and the Grow with Google program.",False
+GOOGL,2018,2022,4,0.0985,True,True,"The About page shifted from a narrative collection of user stories, developer grants, and specific initiatives to a structured corporate portal highlighting core commitments, mission statements, safety, and sustainability goals.",False
+GOOGL,2022,2023,1,0.7625,True,True,The page updated its featured content sections to highlight seasonal trends like the 'Year in Search' and local search data instead of the previous year's legacy and charitable support stories.,False
+GS,2016,2017,1,1.0,False,False,The content of the About page remained identical between the two yearly snapshots.,False
+GS,2017,2018,1,0.9523,False,True,"The 'Progress is...' featured story content changed from highlighting Mobileye's driving technology to showcasing Newark's urban revitalization, and the 'Explore Our Interactive Guide to Capital Markets' section was removed from the navigation list.",False
+HAL,2016,2017,1,0.8194,True,True,"The page updated its service descriptions for Deep Water and Mature Fields, replaced the RapidSuite ETB Mobile App and MSDS with the WellCall Mobile Application, Boots & Coots Services, and updated SDS terminology.",False
+HAL,2017,2018,1,0.9741,False,True,The current year's snapshot removed references to the Halliburton Solutions App and the promotional text 'Halliburton helps you lower your cost per BOE...',False
+HAL,2018,2019,1,0.6446,True,True,"The page removed sections detailing specific business segments (Deep Water, Mature Fields, Unconventionals) and added promotional content celebrating Halliburton's 100-year anniversary and the new DRIVE augmented reality app.",False
+HAL,2019,2020,1,0.9233,True,True,The company removed references to its 100-year anniversary and celebration events from the prior year snapshot.,False
+HAL,2020,2021,1,0.2674,True,True,"The About page shifted from listing specific mobile apps, software tools, and emergency contact numbers to highlighting advanced digital technologies like AI, Halliburton 4.0, corporate sustainability initiatives, and business performance updates.",False
+HAL,2021,2022,1,0.3018,True,True,"The About page shifted its core messaging from general digital transformation and productivity (Halliburton 4.0) in the prior year to specific energy transition initiatives such as geothermal development, CO2 storage, and plug-and-abandonment solutions in the current year.",False
+HAL,2022,2023,1,0.3059,True,True,"The About page shifted its focus from specific geothermal, CO2, and plug-and-abandonment service descriptions to core company values, strategic collaborations, and recent product announcements.",False
+HAL,2023,2024,1,0.5955,True,True,"The dynamic news and press release content was updated to reflect current 2024 articles, announcements, and financial call dates, while the core company mission statement remained identical.",False
+HD,2018,2020,2,0.3634,True,True,"The About page shifted from a standard global navigation and menu-heavy header structure in the prior year to a promotional landing-page format featuring specific seasonal deals, product categories, and DIY guides in the current year.",False
+HD,2020,2021,1,0.4937,True,True,"The page shifted from a mixed list of general DIY topics, promotional banners, and product categories to a more structured, promotion-heavy layout focused on specific savings, discounts, and distinct product categories like lawn mowers, ladders, and area rugs.",False
+HD,2021,2022,1,0.5427,True,True,"The page shifted its promotional focus and product offerings from lawn, garden, and appliances in the prior year to outdoor power equipment, grills, smart home tech, and specific gardening items in the current year.",False
+HD,2022,2024,2,0.3127,True,True,"The page shifted from listing a broad, randomized inventory of specific household and hardware items to promoting specific seasonal categories, services, store features, and promotional events.",False
+IBM,2020,2021,1,0.9832,False,True,"The page updated its service descriptions to emphasize hybrid cloud and trusted partnerships, slightly adjusted the IBM Research technology focus areas, removed the historical mention of the IBM Service Bureau, and added historical milestones regarding the floppy disk and UPC bar codes.",False
+IBM,2021,2022,1,0.9509,False,True,"The executive leadership details, the IBM Fellows announcement text, and parts of the cloud partnership description were updated, alongside the addition of several historical milestones at the end of the page.",False
+IBM,2022,2023,1,0.8482,True,True,"The About page was rewritten to focus more concisely on hybrid cloud, AI, and client problem-solving, streamlining the historical timeline and removing detailed sections on specific research labs, security solutions, and Watson enterprise services.",False
+IBM,2023,2024,1,0.7005,True,True,"The About page shifted its focus from a broad historical timeline of past inventions and CEO introductory remarks to a contemporary emphasis on current initiatives, sustainability programs, education, AI innovations like watsonx, and security practices.",False
+INTC,2016,2017,1,0.8485,True,,,False
+INTC,2017,2018,1,0.6471,True,True,"The company drastically streamlined its About page, removing the comprehensive mission statement, disruptive technology descriptions, and corporate contact details while shifting the focus to high-level headings, community engagement, and trademark notices.",False
+INTC,2018,2019,1,1.0,False,False,No substantive changes were made between the prior year and current year snapshots of the About page.,False
+INTC,2019,2020,1,0.3237,True,True,"The company overhauled its About page from a brief overview with a focus on diversity funding and innovation to a comprehensive corporate statement detailing its purpose, values, data-driven strategy, customer commitments, and 2030 global impact goals.",False
+INTC,2020,2021,1,0.8889,True,True,"The company added a new headline, explicit Vision and Mission statements, and several new sections including 'Catalyst for Wonderful', 'Go Bigger With Intel Tech', and 'Our Brand' to emphasize corporate responsibility and brand identity.",False
+INTC,2021,2022,1,0.9379,True,True,"The company updated its core purpose phrasing slightly, revised its company values, removed the explicit Vision and Mission sections, and added new sections on 'Edge to Cloud' and 'Tech Innovation'.",False
+INTC,2022,2023,1,0.6085,True,True,"The About page was substantially rewritten to highlight specific metrics like employee count, introduce the RISE strategy and four critical beliefs (such as supply chain resilience and Moore's Law goals), and restructure the company's messaging and strategic pillars.",False
+INTC,2023,2024,1,0.9901,False,,,False
+JNJ,2017,2019,2,0.5423,True,True,"The page underwent substantive navigation updates, adding new sections like 'Office of the Chief Medical Officer' and 'Supplier Standards', shifting from 'Our Social Impact' to 'Our Societal Impact', expanding international site links, and replacing older featured articles and reports with current 2018-2019 content and bioethics spotlights.",False
+JNJ,2019,2020,1,0.6974,True,True,"The company added content related to COVID-19 resources, updated product lines to include 'Consumer Health Products' and 'Veterans, Military & Military Families,' and featured new stories regarding pandemic responses and the discontinuation of talc-based baby powder.",False
+JNJ,2020,2023,3,0.7259,True,True,"The About page underwent significant updates to navigation, terminology (such as shifting from 'Consumer Health' and 'Diversity & Inclusion' to 'MedTech' and 'Diversity, Equity & Inclusion'), and featured news stories to reflect current company structure and initiatives.",False
+JNJ,2023,2024,1,0.2189,True,True,"The About page shifted from a navigation-heavy menu and dynamic story spotlights to a structured, mission-driven overview highlighting the company's purpose, employee count, history, and core sections.",False
+JPM,2020,2021,1,0.9842,False,True,"An error message directing users to update their browser was added to the top of the current year's page, alongside minor typographical corrections in the Business Principles section.",False
+JPM,2021,2022,1,1.0,False,False,No substantive changes were made between the prior year and current year snapshots of the About page.,False
+JPM,2022,2023,1,1.0,False,False,No substantive changes were made between the prior year and current year snapshots of the About page.,False
+JPM,2023,2024,1,0.3548,True,True,"The About page was significantly redesigned to feature recent news, employee spotlights, updated milestones (over 225 years of history), and enhanced sections on company culture, awards, and career opportunities.",False
+LLY,2016,2017,1,0.8592,True,True,"The current year's page expands significantly on the company's core values by adding detailed definitions and stakeholder commitments for Integrity, Excellence, and Respect for People.",False
+LLY,2017,2018,1,1.0,False,False,The content of the About page remained entirely identical between the two yearly snapshots.,False
+LLY,2018,2019,1,0.9444,True,True,"The company streamlined its mission, vision, and promise statements into a single updated 'Our Purpose' statement, while keeping the historical background and core values largely the same.",False
+LLY,2019,2020,1,1.0,False,False,The content of the About page remained completely identical between the two yearly snapshots.,False
+LOW,2016,2017,1,0.7789,True,True,"The page updated its promotional offers, adding MyLowe's free shipping and carpet installation deals while removing the specific appliance discount percentage details and updating paint rebate products and military discount terms.",False
+LOW,2017,2018,1,0.8924,True,,,False
+LOW,2018,2019,1,0.6218,True,True,"The page was updated to remove MyLowe's loyalty program details, delivery policies, and satisfaction guarantees while adding new appliance brand exclusions, a tiered rebate structure, and credit financing promotion details for the Lowe's Advantage Card.",False
+LOW,2019,2020,1,0.1057,True,True,"The page content changed completely from fine-print terms, conditions, and appliance rebate disclaimers to a marketing-focused landing page featuring product categories, seasonal promotions, and design tips.",False
+MCD,2018,2020,2,0.165,True,True,"The page content completely shifted from promotional sweepstakes terms and email sign-up fine print to highlighting digital features like Mobile Order & Pay, McDelivery, Free Fries Friday, and McCafé Rewards.",False
+MCD,2020,2021,1,0.821,True,True,"The page was updated to remove specific expired promotions like Free Fries on Fry Day and McCafé Rewards, while consolidating the remaining mobile ordering and delivery information under updated promotional headings.",False
+MCD,2021,2022,1,0.622,True,True,"The page expanded significantly to introduce the MyMcDonald’s Rewards program, app signup promotions, Grubhub as a delivery partner, and community initiatives like Black & Positively Golden and Spotlight Dorado.",False
+MCD,2022,2023,1,0.8037,True,True,"The page updated its featured app promotions to include faster pre-ordering options and earning rewards on delivery, while removing the Black & Positively Golden Change Leader initiative.",False
+MCD,2023,2024,1,0.6467,True,True,"The company updated its promotional offers, cultural initiatives, and menu highlights—swapping out the previous Latino filmmaker program and free fries promotion for new campaigns like a $5 meal deal, a Black designer fashion program, and a Crocs collaboration.",False
+MDT,2016,2019,3,0.1819,True,True,"The About page was completely redesigned from a text-heavy directory of medical conditions, therapies, and corporate awards into a modern marketing landing page focused on technological innovation, patient care transformation, and career opportunities.",False
+META,2016,2017,1,1.0,False,False,The content of the About page remains identical between the prior year and the current year.,False
+META,2017,2018,1,0.1537,True,True,"The About page shifted completely from a feature-oriented user guide focusing on social tools to a corporate overview detailing the company's mission, headquarters, global offices, statistics, hacker culture, and leadership biographies.",True
+META,2018,2019,1,0.887,True,True,"The company's employee count increased, office and data center locations expanded globally, and the cultural description text and leadership bios were updated.",False
+META,2019,2020,1,0.3986,True,True,"The About page was redesigned to include explicit sections for company culture, core principles, expanded leadership and office statistics, and a significantly longer history timeline.",True
+META,2020,2021,1,0.9942,False,,,False
+META,2021,2022,1,0.521,True,,,True
+META,2022,2023,1,0.9379,True,True,The current year's snapshot adds a historical introductory paragraph detailing the company's evolution from Facebook in 2004 through its various apps to immersive augmented and virtual reality technologies.,False
+META,2023,2024,1,0.9811,False,True,"The page was updated to include mixed reality in its technological scope, reorganised its section headers, and changed links from exploring job openings to highlighting working at Meta and its leadership.",False
+MPC,2019,2020,1,0.7931,True,True,"The page underwent substantive revisions including the removal of the CEO quote, the renaming of 'Corporate Citizenship' to 'Creating Shared Value', an update to the core values list, and the omission of Andeavor Logistics LP from the midstream description.",False
+MPC,2020,2021,1,0.9323,True,True,The current year snapshot removed specific operational metrics for the refining system and omitted mentions of Speedway LLC and its retail convenience stores.,False
+MPC,2021,2022,1,1.0,False,False,No substantive changes were made between the prior year and current year snapshots of the About page.,False
+MPC,2022,2023,1,1.0,False,False,The content of the About page remained completely identical between the two yearly snapshots.,False
+MPC,2023,2024,1,1.0,False,False,No substantive changes were made between the prior year and current year snapshots of the About page.,False
+MRK,2016,2017,1,0.5625,True,True,"The current year's page has been substantially expanded to include explicit company values, specific financial and operational metrics (such as R&D expense, revenue, and employee count), corporate responsibility data points, and details regarding its board, executive committee, and history.",False
+MRK,2017,2018,1,0.9932,False,False,"The page contents remained identical except for necessary updates to financial figures, employee counts, and dates reflecting the transition from 2016 to 2017.",False
+MRK,2018,2019,1,1.0,False,False,"The About page did not substantively change, with updates being strictly limited to trailing year dates and financial/headcount metrics (such as R&D expense, revenue, and employee count references moving from 2017 to 2018).",False
+MRK,2019,2020,1,0.996,False,False,"The page only updated statistical figures, dates, and financial metrics (such as employee count, R&D expenses, and revenue for the new year), while the core narrative and content remained identical.",False
+MRK,2020,2021,1,0.5276,True,True,"The company restructured its About page to emphasize a 130-year history, added specific disease focus areas like Oncology and COVID-19, and streamlined corporate responsibility and metrics sections.",False
+MRK,2021,2022,1,0.9177,True,True,"The company updated its core mission framing to explicitly state a 'purpose' centered on using the power of leading-edge science, refined its introductory and leadership phrasing, updated financial/metric year references (such as shifting R&D investment and giving years), and added a new 'Our history' section header.",False
+MRK,2022,2023,1,1.0,False,False,The only changes between the two snapshots are the updated years for research and development investments (from 2021 to 2022) and total giving (from 2020 to 2021).,False
+MS,2016,2017,1,1.0,False,,,False
+MS,2017,2018,1,1.0,False,,,False
+MS,2018,2019,1,1.0,False,,,False
+MS,2019,2020,1,0.495,True,,,False
+MS,2020,2021,1,0.9682,False,,,False
+MS,2021,2022,1,1.0,False,False,"The content of the page remained identical, with only minor typographic character encoding fixes (such as replacing mojibake apostrophes like 'âs' with proper curly quotes like '’') in the Technology & Disruption and Giving Back sections.",False
+MS,2022,2023,1,0.9446,True,,,False
+MS,2023,2024,1,0.9949,False,,,False
+MSFT,2016,2017,1,0.9339,True,,,False
+MSFT,2017,2018,1,0.7951,True,,,False
+MSFT,2018,2019,1,0.7539,True,,,False
+MSFT,2019,2020,1,0.9526,False,,,False
+MSFT,2020,2021,1,0.8721,True,,,False
+MSFT,2021,2023,2,1.0,False,,,False
+MSFT,2023,2024,1,1.0,False,,,False
+NKE,2017,2018,1,0.9986,False,,,False
+NKE,2018,2019,1,0.0,True,,,False
+NKE,2019,2020,1,1.0,False,,,False
+NKE,2020,2021,1,1.0,False,,,False
+NKE,2021,2022,1,1.0,False,,,False
+NKE,2022,2023,1,1.0,False,,,False
+NKE,2023,2024,1,0.0267,True,,,False
+NVDA,2016,2017,1,0.7562,True,,,False
+NVDA,2017,2019,2,0.1824,True,,,False
+NVDA,2019,2020,1,0.9472,True,,,False
+NVDA,2020,2021,1,0.8884,True,,,False
+NVDA,2021,2022,1,0.2441,True,,,False
+NVDA,2022,2024,2,0.1115,True,,,False
+ORCL,2020,2022,2,0.6476,True,,,False
+ORCL,2022,2023,1,0.9643,False,,,False
+ORCL,2023,2024,1,0.6916,True,,,False
+OXY,2016,2017,1,0.998,False,,,False
+OXY,2017,2018,1,0.9994,False,,,False
+OXY,2018,2020,2,0.1324,True,,,False
+OXY,2020,2021,1,0.2151,True,,,False
+OXY,2021,2022,1,0.9655,False,,,False
+OXY,2022,2023,1,1.0,False,,,False
+OXY,2023,2024,1,0.9966,False,,,False
+PFE,2016,2017,1,0.9897,False,,,False
+PFE,2017,2018,1,0.2716,True,,,False
+PFE,2018,2019,1,0.4579,True,,,False
+PFE,2019,2020,1,0.8126,True,,,False
+PFE,2020,2021,1,0.1952,True,,,False
+PFE,2021,2022,1,0.9981,False,,,False
+PFE,2022,2023,1,0.9892,False,,,False
+PFE,2023,2024,1,0.9996,False,,,False
+PSX,2017,2018,1,0.9654,False,,,False
+PSX,2018,2019,1,0.9498,True,,,False
+PSX,2019,2020,1,0.9824,False,,,False
+PSX,2020,2021,1,0.8891,True,,,False
+PSX,2021,2022,1,0.933,True,,,False
+PSX,2022,2023,1,0.2407,True,,,False
+PSX,2023,2024,1,1.0,False,,,False
+SBUX,2016,2017,1,0.0483,True,,,False
+SBUX,2017,2018,1,1.0,False,,,False
+SBUX,2018,2019,1,1.0,False,,,False
+SBUX,2019,2020,1,1.0,False,,,False
+SBUX,2020,2021,1,1.0,False,,,False
+SBUX,2021,2022,1,0.2846,True,,,False
+SBUX,2022,2023,1,0.9704,False,,,False
+SBUX,2023,2024,1,1.0,False,,,False
+SCHW,2016,2017,1,0.5264,True,,,False
+SCHW,2017,2018,1,0.9833,False,,,False
+SCHW,2018,2019,1,0.9534,False,,,False
+SCHW,2019,2020,1,0.9871,False,,,False
+SCHW,2020,2021,1,0.6902,True,,,False
+SCHW,2021,2022,1,0.9639,False,,,False
+SCHW,2022,2023,1,0.9778,False,,,False
+SCHW,2023,2024,1,0.9585,False,,,False
+SLB,2016,2017,1,0.8883,True,,,False
+SLB,2017,2018,1,1.0,False,,,False
+SLB,2018,2019,1,1.0,False,,,False
+SLB,2019,2022,3,0.2935,True,,,False
+SLB,2022,2023,1,0.915,True,,,False
+SLB,2023,2024,1,0.8189,True,,,False
+TGT,2016,2020,4,0.1411,True,,,False
+TGT,2020,2021,1,0.641,True,,,False
+TGT,2021,2022,1,0.5778,True,,,False
+TJX,2017,2018,1,0.9368,True,,,False
+TJX,2018,2019,1,0.8783,True,,,False
+TJX,2019,2020,1,0.7681,True,,,False
+TJX,2020,2021,1,0.8548,True,,,False
+TJX,2021,2022,1,0.8655,True,,,False
+TJX,2022,2023,1,0.9747,False,,,False
+TJX,2023,2024,1,0.7106,True,,,False
+TMO,2017,2019,2,0.0,True,,,False
+TMO,2019,2020,1,0.907,True,,,False
+TMO,2020,2022,2,0.2169,True,,,False
+TMO,2022,2023,1,0.9786,False,,,False
+TMO,2023,2024,1,0.657,True,,,False
+TSLA,2016,2017,1,0.9864,False,,,False
+TSLA,2017,2018,1,0.667,True,,,False
+TSLA,2018,2019,1,0.9697,False,,,False
+TSLA,2019,2020,1,0.9876,False,,,False
+TSLA,2020,2022,2,1.0,False,,,False
+TSLA,2022,2023,1,0.253,True,,,False
+TSLA,2023,2024,1,0.9174,True,,,False
+UNH,2018,2019,1,0.9977,False,,,False
+UNH,2019,2020,1,0.452,True,,,False
+UNH,2020,2022,2,0.4089,True,,,False
+VLO,2020,2021,1,0.981,False,,,False
+VLO,2021,2022,1,1.0,False,,,False
+VLO,2022,2023,1,0.8588,True,,,False
+VLO,2023,2024,1,0.7507,True,,,False
+WFC,2016,2017,1,0.993,False,,,False
+WFC,2017,2018,1,0.6455,True,,,False
+WFC,2018,2019,1,1.0,False,,,False
+WFC,2019,2020,1,0.8693,True,,,False
+WFC,2020,2021,1,1.0,False,,,False
+WFC,2021,2022,1,0.9722,False,,,False
+WFC,2022,2023,1,1.0,False,,,False
+WFC,2023,2024,1,1.0,False,,,False
+XOM,2019,2020,1,0.8524,True,,,False
+XOM,2020,2021,1,0.6155,True,,,False
+XOM,2021,2022,1,0.8293,True,,,False
+XOM,2022,2023,1,0.5953,True,,,False
+XOM,2023,2024,1,0.3328,True,,,False

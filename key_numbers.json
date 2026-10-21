@@ -1,0 +1,221 @@
+{
+ "p2_coverage": "450/450",
+ "p2_median_words": 45847,
+ "p2_gaps": [],
+ "p2_theme_means": {
+  "innovation": 0.1,
+  "customer-focus": 0.07,
+  "integrity": 0.086,
+  "sustainability": 0.181,
+  "diversity-inclusion": 0.124,
+  "employee-wellbeing": 0.236,
+  "shareholder-value": 0.124,
+  "community": 0.052,
+  "excellence": 0.026
+ },
+ "p2_diversity-inclusion_by_year": {
+  "2016": 0.084,
+  "2017": 0.099,
+  "2018": 0.112,
+  "2019": 0.127,
+  "2020": 0.128,
+  "2021": 0.16,
+  "2022": 0.147,
+  "2023": 0.142,
+  "2024": 0.119
+ },
+ "p2_sustainability_by_year": {
+  "2016": 0.126,
+  "2017": 0.121,
+  "2018": 0.12,
+  "2019": 0.133,
+  "2020": 0.158,
+  "2021": 0.188,
+  "2022": 0.258,
+  "2023": 0.265,
+  "2024": 0.256
+ },
+ "p2_sector_table": {
+  "Consumer Discretionary": {
+   "sustainability": 0.16,
+   "shareholder-value": 0.134,
+   "diversity-inclusion": 0.149,
+   "employee-wellbeing": 0.213
+  },
+  "Energy": {
+   "sustainability": 0.314,
+   "shareholder-value": 0.128,
+   "diversity-inclusion": 0.081,
+   "employee-wellbeing": 0.248
+  },
+  "Financials": {
+   "sustainability": 0.184,
+   "shareholder-value": 0.079,
+   "diversity-inclusion": 0.149,
+   "employee-wellbeing": 0.22
+  },
+  "Healthcare": {
+   "sustainability": 0.127,
+   "shareholder-value": 0.17,
+   "diversity-inclusion": 0.096,
+   "employee-wellbeing": 0.249
+  },
+  "Technology": {
+   "sustainability": 0.118,
+   "shareholder-value": 0.111,
+   "diversity-inclusion": 0.146,
+   "employee-wellbeing": 0.251
+  }
+ },
+ "p3_headline": {
+  "n": 121,
+  "mean": 0.163,
+  "sd": 0.305,
+  "median": 0.127,
+  "min": -0.649,
+  "max": 0.844
+ },
+ "p3_by_year": {
+  "2016": 0.194,
+  "2017": 0.023,
+  "2018": 0.098,
+  "2019": 0.148,
+  "2020": 0.218,
+  "2021": 0.247,
+  "2022": 0.189,
+  "2023": 0.209
+ },
+ "p3_by_year_n": {
+  "2016": 11,
+  "2017": 16,
+  "2018": 15,
+  "2019": 18,
+  "2020": 16,
+  "2021": 13,
+  "2022": 16,
+  "2023": 16
+ },
+ "p3_by_year_withinyear": {
+  "2016": 0.196,
+  "2017": 0.06,
+  "2018": 0.087,
+  "2019": 0.079,
+  "2020": 0.255,
+  "2021": 0.297,
+  "2022": 0.172,
+  "2023": 0.203
+ },
+ "p3_spearman_main_vs_raw": 0.461,
+ "p3_firms_top5": [
+  [
+   "AVGO",
+   0.553
+  ],
+  [
+   "AMZN",
+   0.465
+  ],
+  [
+   "JPM",
+   0.403
+  ],
+  [
+   "PSX",
+   0.395
+  ],
+  [
+   "INTC",
+   0.343
+  ]
+ ],
+ "p3_firms_bottom5": [
+  [
+   "MSFT",
+   -0.246
+  ],
+  [
+   "TSLA",
+   -0.077
+  ],
+  [
+   "MPC",
+   -0.075
+  ],
+  [
+   "UNH",
+   0.011
+  ],
+  [
+   "COP",
+   0.028
+  ]
+ ],
+ "p3_n_firms": 24,
+ "p3_wfc": {
+  "values_2016_19": {
+   "2016": 0.127,
+   "2017": 0.357,
+   "2018": 0.062,
+   "2019": -0.297
+  },
+  "mean_2016_19": 0.062,
+  "rank_low_to_high": 7,
+  "of_firms": 24
+ },
+ "p3_sector_means": {
+  "Consumer Discretionary": [
+   20,
+   0.143
+  ],
+  "Energy": [
+   32,
+   0.173
+  ],
+  "Financials": [
+   19,
+   0.176
+  ],
+  "Healthcare": [
+   25,
+   0.165
+  ],
+  "Technology": [
+   25,
+   0.154
+  ]
+ },
+ "p4_about_dei_by_year_nonsparse": {
+  "2016": 0.071,
+  "2017": 0.06,
+  "2018": 0.053,
+  "2019": 0.048,
+  "2020": 0.054,
+  "2021": 0.066,
+  "2022": 0.092,
+  "2023": 0.08,
+  "2024": 0.056
+ },
+ "p4_paired_2021_2022": {
+  "n": 12,
+  "mean_2021": 0.071,
+  "mean_2022": 0.079,
+  "up": 2,
+  "flat": 8,
+  "down": 2
+ },
+ "p4_paired_2020_2022": {
+  "n": 12,
+  "from": 0.058,
+  "to": 0.077
+ },
+ "p4_paired_2022_2024": {
+  "n": 13,
+  "from": 0.075,
+  "to": 0.06
+ },
+ "p4_firm_peak_split_ge6": {
+  "proxy_first": 4,
+  "same": 0,
+  "about_first": 4
+ }
+}
