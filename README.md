@@ -1,7 +1,7 @@
 # Stated vs. Disclosed: Organizational Authenticity in 50 Large US Firms, 2016–2024
 
-**Qing Deng** — Research Assistant recruitment task, Wharton People
-Analytics / Wharton–TAU Lab.
+**Qing Deng** — Research Assistant recruitment task, Wharton Center
+for Human Resources (Prof. Liat Eldor).
 
 ## What this project does
 
@@ -12,9 +12,10 @@ proxy statement, from SEC EDGAR), score both with one nine-theme
 instrument, and ask how the two relate — including when an external
 shock (2020) hits.
 
-- **Part 1** — 450 company-year About/homepage captures, two
-  independent codings (LLM labels and a keyword dictionary,
-  53–90% agreement by theme). About pages are sticky: about half of
+- **Part 1** — About pages for 450 targeted company-years (313
+  usable), two independent codings (LLM labels and a keyword
+  dictionary, 53–90% agreement by theme). About pages are sticky:
+  about half of
   year-to-year comparisons show a substantive rewrite.
 - **Part 2** — all 450 proxy statements (median ~46,000 words),
   scored with the same dictionary. Diversity language in proxies
@@ -34,8 +35,7 @@ shock (2020) hits.
 
 - `part1/` … `part4/` — for each part: `README.md` (what I did,
   why, assumptions, limitations, what I would do with more time),
-  `summary.md` (a 1–2 page non-technical summary; Part 4's design
-  notes are in its README and its essay is its summary), the code,
+  `summary.md` (a 1–2 page non-technical summary), the code,
   and the output data (`partN_output.csv` plus supporting files).
 - `key_numbers.py` / `key_numbers.json` — every number quoted in
   the four READMEs and summaries is computed by this script from

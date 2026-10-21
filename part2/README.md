@@ -112,9 +112,9 @@ trajectories carry into Part 4 (theme shares, all firms):
 **Cross-sector and cross-company comparison.** Theme emphasis
 differs sharply by sector (mean shares): Energy's sustainability
 share (0.314) is nearly double the next sector's, as its business
-would predict; diversity-inclusion is highest in Financials and
-Consumer Discretionary (0.149 each), followed by Technology
-(0.146), and lowest in Energy (0.081); shareholder-value is, counterintuitively,
+would predict; diversity-inclusion is similar in Financials,
+Consumer Discretionary and Technology (0.146–0.149) and lowest
+in Energy (0.081); shareholder-value is, counterintuitively,
 *lowest* in Financials (0.079) and highest in Healthcare (0.170).
 Bank proxies spend their words on governance and pay mechanics
 rather than capital-return vocabulary. At company level the
