@@ -52,12 +52,13 @@ advertise. Proxy DEI language nearly doubled (0.084 → 0.160) and
 then receded; for firms observed continuously, About-page DEI
 language barely moved. The apparent 2022 website surge is mostly
 sample composition: firms whose pages became substantive enough to
-measure. Once the pressure came off, both channels receded
-substantially by 2024 (proxy -26%, About -39% from peak) — stated
-without ranking the two, which these samples cannot support.
+measure. Once the pressure came off, the proxy share receded
+substantially by 2024 (-26% from peak), and the About-page share,
+which never surged for continuously observed firms, drifted back
+to roughly its pre-2020 level.
 
 In other words, the "say" channel is far stickier and less
-shock-sensitive than the "do" (disclosure) channel. This is
+shock-sensitive than the disclosure channel. This is
 consistent with the rest of the project: Part 1 found About pages
 change substantively in only about half of company-years, and
 Part 3's index derives most of its year-to-year movement from the

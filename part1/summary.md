@@ -2,8 +2,9 @@
 
 Every large company maintains a page that answers the question "who
 are we?" — its About page. This part of the project treats those pages
-as data. Using the Wayback Machine's web archive, I recovered the
-About page of 50 major US companies for every year from 2016 to 2024,
+as data. Using the Wayback Machine's web archive, I set out to
+recover the About page of 50 major US companies for each year from
+2016 to 2024,
 and asked three questions: What values do companies claim? How often
 do they rewrite those claims? And how have the claims drifted over
 nine years?

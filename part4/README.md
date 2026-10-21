@@ -39,7 +39,8 @@ finding that replaced it. All figures are in `key_numbers.json`.
 1. Proxy diversity share: 0.084 (2016) → 0.160 peak (2021) →
    0.119 (2024), on complete coverage (450 of 450 documents).
 2. About-page diversity share (aggregate) peaks a year later,
-   0.092 in 2022, and recedes to 0.056 by 2024.
+   0.092 in 2022, against 0.056 in 2024 — but see (3): in the
+   paired sample that peak largely disappears.
 3. Paired check (12 firms, 2021→2022): About moves only
    0.071 → 0.079 (+0.008; 2 up, 8 flat, 2 down) against +0.026
    unpaired. The aggregate website "surge" is mostly sample

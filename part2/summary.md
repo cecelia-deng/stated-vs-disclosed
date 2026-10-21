@@ -47,4 +47,4 @@ disclosures lines up with the values the same companies advertise,
 and how each of the two channels responds when the world changes,
 is what Parts 3 and 4 measure.
 
-For a reader comparing companies, the proxy is where the differences are: it is the one values document every firm must produce, on the same calendar, in a comparable form.
+If you want to compare companies' priorities on equal terms, start with the proxy: it is the one values document every firm must produce, on the same calendar, in a comparable form.
